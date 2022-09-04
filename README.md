@@ -1,3 +1,1 @@
-Analysis of Behavioral Risk Factor Surveillance System (BRFSS) data from 2015
-
-Goal: to determine what conditions and habits are most highly associated with heart disease
+I am going to analyze the Behavioral Risk Factor Surveillance System (BRFSS) data from 2015. The BRFSS interviews roughly 450,000 US adults by telephone each year, collecting data about health risk behaviors, chronic health conditions, and dietary and exercise habits. The data also includes basic demographic information. My specific goal is to identify the main risk factors for heart disease, the leading cause of death in the United States. Using a selection of other chronic health variables, as well as dietary, smoking, and exercise information, I hope to determine what conditions and habits are most highly associated with heart disease.
